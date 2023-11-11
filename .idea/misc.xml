@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$USER_HOME$/.local/bin/black" />
+    <option name="sdkUUID" value="73a4e843-7549-4c11-96ee-9e3bf959301a" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (e-learning-platform)" project-jdk-type="Python SDK" />
+</project>
